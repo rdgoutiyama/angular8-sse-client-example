@@ -1,4 +1,4 @@
-# angular8-sse-client-example
+# angular8-sse-client-example exemple of client
 
 Server Side Events Client Example
 
